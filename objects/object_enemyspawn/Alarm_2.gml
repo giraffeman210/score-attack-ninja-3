@@ -31,10 +31,10 @@ if(enemychoose == 3)
 	/// @DnDParent : 2C5BCAA4
 	/// @DnDArgument : "xpos" "x +32"
 	/// @DnDArgument : "ypos" "y + 32"
-	/// @DnDArgument : "objectid" "object_enemytroll"
+	/// @DnDArgument : "objectid" "object_enemy_vine"
 	/// @DnDArgument : "layer" ""Instances_enemy""
-	/// @DnDSaveInfo : "objectid" "493ece8e-42f7-4820-8820-b44a9279b35d"
-	instance_create_layer(x +32, y + 32, "Instances_enemy", object_enemytroll);
+	/// @DnDSaveInfo : "objectid" "822a2e67-0d94-46ee-8a64-75f751f86dff"
+	instance_create_layer(x +32, y + 32, "Instances_enemy", object_enemy_vine);
 }
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance

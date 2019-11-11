@@ -367,14 +367,6 @@
             }
         },
         {
-            "Key": "707d0297-18ba-4202-8d6d-bdbb5a13d33e",
-            "Value": {
-                "id": "9361b239-6a14-4983-8873-679652d455fe",
-                "resourcePath": "sprites\\sprite31\\sprite31.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7161b50e-80b4-446e-b9a7-af404468f5ad",
             "Value": {
                 "id": "1e96f937-39ce-44d3-bf44-77850e664f8a",
@@ -412,6 +404,22 @@
                 "id": "0583a2b1-e345-4464-bd57-35e19dfe40e1",
                 "resourcePath": "sprites\\sprite_playerdead\\sprite_playerdead.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7dd75b53-0280-4f01-9abb-dc6d97de4376",
+            "Value": {
+                "id": "b38004b1-d8fe-42e7-987c-f1c5b0969301",
+                "resourcePath": "objects\\objec_vines\\objec_vines.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "822a2e67-0d94-46ee-8a64-75f751f86dff",
+            "Value": {
+                "id": "9031ab9c-8e58-40c8-bd31-6b091e489514",
+                "resourcePath": "objects\\object_enemy_vine\\object_enemy_vine.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -587,6 +595,14 @@
             "Value": {
                 "id": "0594d929-34a1-4540-ad3a-bb6cb2c77751",
                 "resourcePath": "sprites\\sprite_score\\sprite_score.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cc799a4f-ee16-4659-b743-c9990b083b6d",
+            "Value": {
+                "id": "26d11ee5-8e9c-4f81-9225-a0dabefb16b4",
+                "resourcePath": "sprites\\sprite_vines\\sprite_vines.yy",
                 "resourceType": "GMSprite"
             }
         },
