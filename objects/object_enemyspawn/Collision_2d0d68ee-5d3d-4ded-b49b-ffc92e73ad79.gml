@@ -1,0 +1,14 @@
+/// @DnDAction : YoYo Games.Instances.Create_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 1FC4BA7D
+/// @DnDArgument : "xpos" "random_range(64, 1024)"
+/// @DnDArgument : "ypos" "random_range(128, 704)"
+/// @DnDArgument : "objectid" "object_enemyspawn"
+/// @DnDArgument : "layer" ""Instances_gem""
+/// @DnDSaveInfo : "objectid" "16ca7865-835e-473a-8aa2-3a7074401811"
+instance_create_layer(random_range(64, 1024), random_range(128, 704), "Instances_gem", object_enemyspawn);
+
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 2F7DA183
+instance_destroy();
