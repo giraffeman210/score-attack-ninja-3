@@ -2,7 +2,7 @@
     "id": "7dd75b53-0280-4f01-9abb-dc6d97de4376",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objec_vines",
+    "name": "object_vines",
     "eventList": [
         
     ],

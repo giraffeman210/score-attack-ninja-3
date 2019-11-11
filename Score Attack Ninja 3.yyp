@@ -410,7 +410,7 @@
             "Key": "7dd75b53-0280-4f01-9abb-dc6d97de4376",
             "Value": {
                 "id": "b38004b1-d8fe-42e7-987c-f1c5b0969301",
-                "resourcePath": "objects\\objec_vines\\objec_vines.yy",
+                "resourcePath": "objects\\object_vines\\object_vines.yy",
                 "resourceType": "GMObject"
             }
         },

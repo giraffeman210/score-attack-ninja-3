@@ -1,9 +1,11 @@
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 4A39833E
+/// @DnDArgument : "xpos" "x"
+/// @DnDArgument : "ypos" "y"
 /// @DnDArgument : "objectid" "object_vines"
 /// @DnDArgument : "layer" ""Instances_enemydrop""
-instance_create_layer(0, 0, "Instances_enemydrop", object_vines);
+instance_create_layer(x, y, "Instances_enemydrop", object_vines);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
