@@ -570,7 +570,7 @@
             "Key": "c3fa31c7-1121-43b5-8bdc-531853424b73",
             "Value": {
                 "id": "dcd16959-77de-4480-9682-355cac95db77",
-                "resourcePath": "sprites\\sprite32\\sprite32.yy",
+                "resourcePath": "sprites\\sprite_enemyvine\\sprite_enemyvine.yy",
                 "resourceType": "GMSprite"
             }
         },
