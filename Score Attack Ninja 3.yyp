@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "176b6df4-b3bb-4276-885e-88146d9052f5",
+            "Value": {
+                "id": "adbcae42-ef07-42ea-9341-6fab0bf8231b",
+                "resourcePath": "sprites\\sprite_vinesgrow\\sprite_vinesgrow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "176d2322-3b88-4388-bb10-c5f6b5bfff99",
             "Value": {
                 "id": "baf9e6da-fe10-4527-837e-51166f8b5921",
