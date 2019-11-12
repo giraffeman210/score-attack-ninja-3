@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "69ca609e-8d1d-4984-b349-34986f5ea426",
+            "Value": {
+                "id": "a47586c9-e1f6-48fe-8f29-092700d1397f",
+                "resourcePath": "sprites\\sprite_enemytrollhit\\sprite_enemytrollhit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6b0db70b-7743-48e4-92c6-77d5b9d06ae5",
             "Value": {
                 "id": "1b2b47a8-8531-4787-a3ce-e180f3afc9d6",
@@ -476,6 +484,14 @@
                 "id": "c3bf229a-1655-4a81-b87c-c9d0a8771d84",
                 "resourcePath": "objects\\object_gem2\\object_gem2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a087dca5-0046-4667-aa08-f57e4921263c",
+            "Value": {
+                "id": "9c3cc642-0cc4-47c2-b08d-6e5250d7b4a5",
+                "resourcePath": "sprites\\sprite_enemyninja\\sprite_enemyninja.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -98,3 +98,17 @@ if(((x - 32) + (y -32)) mod 64 = 0)
 	/// @DnDArgument : "var" "direction"
 	direction = randpath * 90;
 }
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 19DCE582
+/// @DnDArgument : "var" "hp"
+/// @DnDArgument : "op" "3"
+if(hp <= 0)
+{
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 7BA060AF
+	/// @DnDParent : 19DCE582
+	instance_destroy();
+}
