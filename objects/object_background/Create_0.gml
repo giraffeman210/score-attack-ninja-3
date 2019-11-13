@@ -3150,6 +3150,12 @@ gemcount = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 1910C2CC
+/// @DnDArgument : "var" "stolengems"
+stolengems = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 274AAB9C
 /// @DnDArgument : "expr" "true"
 /// @DnDArgument : "var" "countdown"
@@ -3174,3 +3180,10 @@ alarm_set(1, random_range(600,1200));
 /// @DnDArgument : "steps" "random_range(600,1200)"
 /// @DnDArgument : "alarm" "2"
 alarm_set(2, random_range(600,1200));
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 2EDCE444
+/// @DnDArgument : "steps" "600"
+/// @DnDArgument : "alarm" "3"
+alarm_set(3, 600);

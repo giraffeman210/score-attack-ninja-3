@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "176c1db7-a87b-46fa-9783-c0c289dd05f5",
+            "Value": {
+                "id": "73db2c1e-b926-42be-a5cc-d6eaf3ddd48f",
+                "resourcePath": "objects\\object_enemyspawnninja\\object_enemyspawnninja.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "176d2322-3b88-4388-bb10-c5f6b5bfff99",
             "Value": {
                 "id": "baf9e6da-fe10-4527-837e-51166f8b5921",
@@ -115,6 +123,14 @@
             "Value": {
                 "id": "7309144b-0656-4384-85ee-c16680245ea1",
                 "resourcePath": "objects\\object_gem3\\object_gem3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "19c2c46a-ae56-43a9-a861-59ddab417f95",
+            "Value": {
+                "id": "f0bb3791-a4f3-40d1-8b8a-e0627ce5e58b",
+                "resourcePath": "objects\\object_enemyninja\\object_enemyninja.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -431,6 +447,14 @@
             }
         },
         {
+            "Key": "7f5028d9-458f-4fed-844b-c83c5dc12924",
+            "Value": {
+                "id": "a5755d28-6de4-46f7-b1a7-738318f4bf39",
+                "resourcePath": "sprites\\sprite_enemeycloudninja\\sprite_enemeycloudninja.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "822a2e67-0d94-46ee-8a64-75f751f86dff",
             "Value": {
                 "id": "9031ab9c-8e58-40c8-bd31-6b091e489514",
@@ -443,6 +467,14 @@
             "Value": {
                 "id": "0ea250eb-d21e-4f84-aa0f-6677f4bc9e43",
                 "resourcePath": "sprites\\sprite_block2\\sprite_block2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "85dd3e64-90c7-4eef-bb3c-4a8f4bba0cc5",
+            "Value": {
+                "id": "36ae9651-6db7-45f3-a9f4-2d3ff2ab63a1",
+                "resourcePath": "sprites\\sprite_enemyninjaup\\sprite_enemyninjaup.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -468,6 +500,14 @@
                 "id": "738bad74-cf83-448b-b915-0ee702f228fc",
                 "resourcePath": "objects\\object_enemy\\object_enemy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9b76916f-e026-4a82-83a5-8a402735a082",
+            "Value": {
+                "id": "df2aa185-f386-4cfe-a97b-2df4982d914e",
+                "resourcePath": "sprites\\sprite_enemyninjadown\\sprite_enemyninjadown.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
