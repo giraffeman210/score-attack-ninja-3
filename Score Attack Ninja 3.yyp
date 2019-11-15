@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "4de2dd13-cf79-4d34-aacc-2a53f2ab53c5",
+            "Value": {
+                "id": "462a9af6-0695-4d1f-bcb9-cbdf273143bc",
+                "resourcePath": "objects\\object_backgroundbossstage\\object_backgroundbossstage.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4f9164c0-f7af-48f8-9e8b-7c2592e332ab",
             "Value": {
                 "id": "4f297b74-13ae-480b-a611-8e60f5e54897",
