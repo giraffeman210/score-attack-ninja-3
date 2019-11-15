@@ -127,4 +127,31 @@ if(((x - 32) + (y -32)) mod 64 = 0)
 	/// @DnDArgument : "expr" "randpath * 90"
 	/// @DnDArgument : "var" "direction"
 	direction = randpath * 90;
+
+	/// @DnDAction : YoYo Games.Common.If_Expression
+	/// @DnDVersion : 1
+	/// @DnDHash : 19BC5BFD
+	/// @DnDParent : 08F9548A
+	/// @DnDArgument : "expr" "vinetime"
+	if(vinetime)
+	{
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 65CE87EB
+		/// @DnDParent : 19BC5BFD
+		/// @DnDArgument : "expr" "false"
+		/// @DnDArgument : "var" "vinetime"
+		vinetime = false;
+	
+		/// @DnDAction : YoYo Games.Instances.Create_Instance
+		/// @DnDVersion : 1
+		/// @DnDHash : 4EACB8C5
+		/// @DnDParent : 19BC5BFD
+		/// @DnDArgument : "xpos" "x"
+		/// @DnDArgument : "ypos" "y"
+		/// @DnDArgument : "objectid" "object_vines"
+		/// @DnDArgument : "layer" ""Instances_enemydrop""
+		/// @DnDSaveInfo : "objectid" "7dd75b53-0280-4f01-9abb-dc6d97de4376"
+		instance_create_layer(x, y, "Instances_enemydrop", object_vines);
+	}
 }
