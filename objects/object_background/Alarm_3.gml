@@ -1,17 +1,17 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 22056CC0
-/// @DnDArgument : "expr" "irandom_range(1,50)"
+/// @DnDArgument : "expr" "irandom_range(1,100)"
 /// @DnDArgument : "var" "enemyninja"
-enemyninja = irandom_range(1,50);
+enemyninja = irandom_range(1,100);
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 694C78A7
 /// @DnDArgument : "var" "enemyninja"
 /// @DnDArgument : "op" "4"
-/// @DnDArgument : "value" "49"
-if(enemyninja >= 49)
+/// @DnDArgument : "value" "98"
+if(enemyninja >= 98)
 {
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
