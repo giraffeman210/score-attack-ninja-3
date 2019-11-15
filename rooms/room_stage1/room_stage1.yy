@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "room_stage1",
     "id": "be7a3ef4-35e6-4d87-bda2-21b5f2a6cbcc",
     "creationCodeFile": "",
     "inheritCode": false,
