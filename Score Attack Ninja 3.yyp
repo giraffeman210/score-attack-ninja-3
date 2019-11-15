@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "04cbf24a-b95c-4884-bb48-b577351db8f9",
+            "Value": {
+                "id": "c20aefaf-5f5b-4080-a71e-32aa24a373fd",
+                "resourcePath": "objects\\object_dying_vines\\object_dying_vines.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "050a709f-56e9-4105-a159-7c0a96ce65a8",
             "Value": {
                 "id": "aa80e88c-402c-4663-9b6b-cae8ab7c0903",
