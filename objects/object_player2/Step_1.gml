@@ -26,6 +26,14 @@ if(place_snapped(64,64))
 	/// @DnDParent : 4B753CFB
 	speed = 0;
 
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 62514233
+	/// @DnDParent : 4B753CFB
+	/// @DnDArgument : "expr" "false"
+	/// @DnDArgument : "var" "vine_collision"
+	vine_collision = false;
+
 	/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
 	/// @DnDVersion : 1
 	/// @DnDHash : 5B966EE4
