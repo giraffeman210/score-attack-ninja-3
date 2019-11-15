@@ -13,9 +13,14 @@ if(global.currentscore >= global.goalscore)
 	/// @DnDArgument : "var" "global.currentscore"
 	global.currentscore = 0;
 
-	/// @DnDAction : YoYo Games.Rooms.Restart_Room
+	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
-	/// @DnDHash : 341B0A45
+	/// @DnDHash : 1F1486B3
 	/// @DnDParent : 3081225F
-	room_restart();
+	/// @DnDArgument : "xpos" "random_range(64, 1024)"
+	/// @DnDArgument : "ypos" "random_range(128, 704)"
+	/// @DnDArgument : "objectid" "object_stairs"
+	/// @DnDArgument : "layer" ""Instances_item""
+	/// @DnDSaveInfo : "objectid" "6f9030a5-fae3-4122-804a-11b70e0a75ed"
+	instance_create_layer(random_range(64, 1024), random_range(128, 704), "Instances_item", object_stairs);
 }

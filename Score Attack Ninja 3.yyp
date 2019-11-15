@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "6f9030a5-fae3-4122-804a-11b70e0a75ed",
+            "Value": {
+                "id": "d97030c8-93f8-454f-9549-743730bf7345",
+                "resourcePath": "objects\\object_stairs\\object_stairs.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6fc4397e-dca6-4f3c-b684-40b7e4e678e4",
             "Value": {
                 "id": "d7e64cd8-5a5e-45b0-bbfc-8741dcd7867b",
@@ -539,6 +547,14 @@
             "Value": {
                 "id": "9c3cc642-0cc4-47c2-b08d-6e5250d7b4a5",
                 "resourcePath": "sprites\\sprite_enemyninja\\sprite_enemyninja.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a0e368bc-7d1e-40d1-8571-f0df9667f753",
+            "Value": {
+                "id": "e52309d9-359f-420e-a407-d070f510fd04",
+                "resourcePath": "sprites\\sprite_stairs\\sprite_stairs.yy",
                 "resourceType": "GMSprite"
             }
         },
