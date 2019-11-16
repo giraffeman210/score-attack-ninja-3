@@ -694,11 +694,21 @@ starcount = 0;
 /// @DnDVersion : 1
 /// @DnDHash : 2D5953EC
 /// @DnDArgument : "xpos" "512"
-/// @DnDArgument : "ypos" "64"
+/// @DnDArgument : "ypos" "640"
 /// @DnDArgument : "objectid" "object_player2"
 /// @DnDArgument : "layer" ""Instances_player""
 /// @DnDSaveInfo : "objectid" "b7755eea-d754-4cdf-a96a-c19c4b35b912"
-instance_create_layer(512, 64, "Instances_player", object_player2);
+instance_create_layer(512, 640, "Instances_player", object_player2);
+
+/// @DnDAction : YoYo Games.Instances.Create_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 035AF55E
+/// @DnDArgument : "xpos" "576"
+/// @DnDArgument : "ypos" "384"
+/// @DnDArgument : "objectid" "object_vineboss"
+/// @DnDArgument : "layer" ""Instances_boss""
+/// @DnDSaveInfo : "objectid" "ff462746-55d0-4cc2-a1ce-f1ad30861fb8"
+instance_create_layer(576, 384, "Instances_boss", object_vineboss);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

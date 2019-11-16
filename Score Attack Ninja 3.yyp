@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "123e9e2a-61db-4434-9658-8d4df5378a8c",
+            "Value": {
+                "id": "97daba13-bcc1-4682-822f-1567b5a7598b",
+                "resourcePath": "sprites\\sprite_vinebosshitbrown\\sprite_vinebosshitbrown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "139abc69-f312-4dbd-969b-d71e9f7896c6",
             "Value": {
                 "id": "a613f1d7-3899-419c-b682-2459dcda4b7d",
@@ -171,6 +179,14 @@
             "Value": {
                 "id": "83a2a81b-41a3-465c-a765-f5031b37a746",
                 "resourcePath": "sprites\\sprite_enemycheckverticaltouch\\sprite_enemycheckverticaltouch.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "214522a1-6a0a-468c-b870-4cc69f3edeb9",
+            "Value": {
+                "id": "d232e452-bb31-4cc4-8a80-bdd405b4c52b",
+                "resourcePath": "sprites\\sprite_vinebossbrown\\sprite_vinebossbrown.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -372,6 +388,14 @@
                 "id": "56bbda38-be04-40fe-86c6-2afd296e1f73",
                 "resourcePath": "objects\\object_barbottom\\object_barbottom.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "61218f45-48d5-479d-9d64-f0950cf1179e",
+            "Value": {
+                "id": "a0d8a512-79e0-4749-8601-b88a9c309331",
+                "resourcePath": "sprites\\sprite_vinebosshit\\sprite_vinebosshit.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -679,6 +703,14 @@
             }
         },
         {
+            "Key": "c0b44175-095d-49e6-b268-0a508ef3c001",
+            "Value": {
+                "id": "78debece-99f0-48a3-a6d2-fedf048597c6",
+                "resourcePath": "sprites\\sprite_vineboss\\sprite_vineboss.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c1e52a03-eebd-409d-808a-6fe265ba92b0",
             "Value": {
                 "id": "8eaf001d-66b5-4b9a-8ad6-e4ff24a1e039",
@@ -828,6 +860,14 @@
                 "id": "bb519ddd-bc7d-47a6-9ace-d3ebd09378bc",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "ff462746-55d0-4cc2-a1ce-f1ad30861fb8",
+            "Value": {
+                "id": "3bf837c0-be56-43a2-9d29-fd55db629de8",
+                "resourcePath": "objects\\object_vineboss\\object_vineboss.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
