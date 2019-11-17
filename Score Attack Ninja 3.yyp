@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "47f33d28-db20-42a3-90b9-a221673da95c",
+            "Value": {
+                "id": "43916b93-e6c9-42e5-a042-e1c1d71ee790",
+                "resourcePath": "sprites\\sprite_fireball\\sprite_fireball.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "493ece8e-42f7-4820-8820-b44a9279b35d",
             "Value": {
                 "id": "8899e96e-7c05-4dc4-8ff2-3124433b9d3e",
@@ -324,6 +332,14 @@
                 "id": "486df596-99c1-4d99-850e-7a4dc5edcec5",
                 "resourcePath": "views\\4a0f374e-8f41-45ea-9f21-8ec877abe489.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4a282cb9-97be-4406-b014-16af5ba0ead5",
+            "Value": {
+                "id": "7428f1d7-a73b-4a18-8cbc-02d9961f20be",
+                "resourcePath": "objects\\object_enemy_fireball\\object_enemy_fireball.yy",
+                "resourceType": "GMObject"
             }
         },
         {
