@@ -1,5 +1,12 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 7E161DBF
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "stairlock"
+stairlock = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 2EDFD2BE
 /// @DnDArgument : "var" "global.currentscore"
 global.currentscore = 0;

@@ -64,8 +64,9 @@
 /// @DnDArgument : "var" "vinetime"
 vinetime = true;
 
-/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 0053B689
-/// @DnDArgument : "steps" "300"
-alarm_set(0, 300);
+/// @DnDHash : 1F532C2F
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "lock_in_place"
+lock_in_place = true;
