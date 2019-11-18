@@ -17,17 +17,10 @@ speed = 2;
 /// @DnDArgument : "xpos" "x"
 /// @DnDArgument : "ypos" "y"
 /// @DnDArgument : "var" "fireball"
-/// @DnDArgument : "objectid" "object_block"
+/// @DnDArgument : "objectid" "object_fireball"
 /// @DnDArgument : "layer" ""Instances_enemydrop""
-/// @DnDSaveInfo : "objectid" "ab2fe361-174e-479e-b8df-4181f31875eb"
-fireball = instance_create_layer(x, y, "Instances_enemydrop", object_block);
-
-/// @DnDAction : YoYo Games.Common.Execute_Code
-/// @DnDVersion : 1
-/// @DnDHash : 6823DC0F
-/// @DnDArgument : "code" "fireball.sprite_index = sprite_fireball;$(13_10)fireball.image_index = 0;"
-fireball.sprite_index = sprite_fireball;
-fireball.image_index = 0;
+/// @DnDSaveInfo : "objectid" "791bd451-57ac-487b-9e26-83c9ef63c41d"
+fireball = instance_create_layer(x, y, "Instances_enemydrop", object_fireball);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
