@@ -8,12 +8,13 @@ if(gemkill == false)
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 109733BA
+	/// @DnDApplyTo : c1e52a03-eebd-409d-808a-6fe265ba92b0
 	/// @DnDParent : 618BB544
-	/// @DnDArgument : "var" "global.currentscore"
+	/// @DnDArgument : "var" "boss"
 	/// @DnDArgument : "not" "1"
-	/// @DnDArgument : "op" "4"
-	/// @DnDArgument : "value" "global.goalscore"
-	if(!(global.currentscore >= global.goalscore))
+	/// @DnDArgument : "value" "true"
+	with(object_global) var l109733BA_0 = boss == true;
+	if(!l109733BA_0)
 	{
 		/// @DnDAction : YoYo Games.Common.If_Variable
 		/// @DnDVersion : 1
@@ -44,11 +45,12 @@ if(gemkill == false)
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 30826898
+	/// @DnDApplyTo : c1e52a03-eebd-409d-808a-6fe265ba92b0
 	/// @DnDParent : 618BB544
-	/// @DnDArgument : "var" "global.currentscore"
-	/// @DnDArgument : "op" "4"
-	/// @DnDArgument : "value" "global.goalscore"
-	if(global.currentscore >= global.goalscore)
+	/// @DnDArgument : "var" "boss"
+	/// @DnDArgument : "value" "true"
+	with(object_global) var l30826898_0 = boss == true;
+	if(l30826898_0)
 	{
 		/// @DnDAction : YoYo Games.Common.If_Variable
 		/// @DnDVersion : 1

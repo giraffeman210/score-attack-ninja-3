@@ -4,6 +4,18 @@
 /// @DnDArgument : "not" "1"
 if(room != room_last)
 {
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 07EB08C3
+	/// @DnDApplyTo : c1e52a03-eebd-409d-808a-6fe265ba92b0
+	/// @DnDParent : 49B410A5
+	/// @DnDArgument : "expr" "true"
+	/// @DnDArgument : "var" "boss"
+	with(object_global) {
+	boss = true;
+	
+	}
+
 	/// @DnDAction : YoYo Games.Rooms.Next_Room
 	/// @DnDVersion : 1
 	/// @DnDHash : 36DABD11
@@ -16,6 +28,18 @@ if(room != room_last)
 /// @DnDHash : 56956175
 if(room == room_last)
 {
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 7573AD08
+	/// @DnDApplyTo : c1e52a03-eebd-409d-808a-6fe265ba92b0
+	/// @DnDParent : 56956175
+	/// @DnDArgument : "expr" "false"
+	/// @DnDArgument : "var" "boss"
+	with(object_global) {
+	boss = false;
+	
+	}
+
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 44780A0C
