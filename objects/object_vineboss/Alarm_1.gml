@@ -126,9 +126,9 @@ if(hp >= 4)
 		/// @DnDArgument : "xpos" "random_range(64, 1024)"
 		/// @DnDArgument : "ypos" "random_range(128, 704)"
 		/// @DnDArgument : "objectid" "object_vinehole"
-		/// @DnDArgument : "layer" ""Instances_vine""
+		/// @DnDArgument : "layer" ""Instances_hole""
 		/// @DnDSaveInfo : "objectid" "e8f927ae-3360-4897-8a86-5612fff12565"
-		instance_create_layer(random_range(64, 1024), random_range(128, 704), "Instances_vine", object_vinehole);
+		instance_create_layer(random_range(64, 1024), random_range(128, 704), "Instances_hole", object_vinehole);
 	
 		/// @DnDAction : YoYo Games.Instances.Set_Alarm
 		/// @DnDVersion : 1

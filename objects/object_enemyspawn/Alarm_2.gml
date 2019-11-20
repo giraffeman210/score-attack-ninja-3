@@ -58,15 +58,15 @@ if(enemychoose == 4)
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
-/// @DnDHash : 711DB824
+/// @DnDHash : 113C8F9B
 /// @DnDArgument : "var" "enemychoose"
 /// @DnDArgument : "value" "5"
 if(enemychoose == 5)
 {
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
-	/// @DnDHash : 1F47AF3F
-	/// @DnDParent : 711DB824
+	/// @DnDHash : 31E950B6
+	/// @DnDParent : 113C8F9B
 	/// @DnDArgument : "xpos" "x +32"
 	/// @DnDArgument : "ypos" "y + 32"
 	/// @DnDArgument : "objectid" "object_enemy_fireball"
