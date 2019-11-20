@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "382cde63-8030-4255-b38f-ec635e6367bb",
+            "Value": {
+                "id": "770d63ff-a2fa-4db0-8470-812c50154de3",
+                "resourcePath": "objects\\object_enemy_jelly\\object_enemy_jelly.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "393a90d7-e220-476c-a9a8-e2fa00a5f892",
             "Value": {
                 "id": "1e5d45bb-17db-43b7-8201-59c95a0abf66",
@@ -503,6 +511,14 @@
             }
         },
         {
+            "Key": "6da46722-bd53-4200-a5d9-0ef05ab2963a",
+            "Value": {
+                "id": "cef90312-a583-4741-980a-edde444d8317",
+                "resourcePath": "sprites\\sprite_whirlpool\\sprite_whirlpool.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6f762910-65e8-498f-aabb-b51c8246688e",
             "Value": {
                 "id": "e62c57ac-f406-45e4-97b4-73c531903924",
@@ -555,6 +571,14 @@
             "Value": {
                 "id": "e06ce8cb-e251-47f8-8a11-a8d00f861180",
                 "resourcePath": "sprites\\sprite_enemycheckhorizontal\\sprite_enemycheckhorizontal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "76353949-b567-4f63-8ba8-09aee846b16d",
+            "Value": {
+                "id": "6662e9fa-6fb7-4453-b357-2a8d4a447eb9",
+                "resourcePath": "sprites\\sprite_enemyjelly\\sprite_enemyjelly.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -779,6 +803,14 @@
             "Value": {
                 "id": "c6405d0f-1dc4-444b-967d-baeada99fb94",
                 "resourcePath": "objects\\object_enemy1\\object_enemy1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b4c3644a-d8bf-4890-a0f3-f77157f4c0f4",
+            "Value": {
+                "id": "1f624240-2c72-4beb-a0f3-e1e77cfe712f",
+                "resourcePath": "objects\\object_whirlpool\\object_whirlpool.yy",
                 "resourceType": "GMObject"
             }
         },
