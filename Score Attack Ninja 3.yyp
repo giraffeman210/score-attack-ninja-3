@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "2834a247-abed-4f80-a831-56fbc8598e28",
+            "Value": {
+                "id": "4cdb2720-13d1-4609-a95c-0468c8b4e63b",
+                "resourcePath": "sprites\\sprite_vinearm2brown\\sprite_vinearm2brown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2ac0b94f-efcc-4833-90d9-b61062d467f6",
             "Value": {
                 "id": "c8c64f54-2c7b-448d-99e7-ab3b4fd28737",
@@ -695,6 +703,14 @@
             }
         },
         {
+            "Key": "9b2ed187-ac80-4176-a7e8-2f447836bbc2",
+            "Value": {
+                "id": "bb3c01a6-719a-4c13-ba76-151c9e9d25dc",
+                "resourcePath": "sprites\\sprite_vinearm3brown\\sprite_vinearm3brown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9b76916f-e026-4a82-83a5-8a402735a082",
             "Value": {
                 "id": "df2aa185-f386-4cfe-a97b-2df4982d914e",
@@ -831,6 +847,22 @@
             }
         },
         {
+            "Key": "b8ef4eaf-fc08-43f9-a69c-e23d89f37aae",
+            "Value": {
+                "id": "09109a86-05f6-4c92-b68a-3bfc2c757153",
+                "resourcePath": "sprites\\sprite_vinearm6brown\\sprite_vinearm6brown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bb6167f8-4857-49ad-aab3-246b7361156e",
+            "Value": {
+                "id": "f764e11a-bc8f-409e-9f03-ead639b5429b",
+                "resourcePath": "sprites\\sprite_vinearm4brown\\sprite_vinearm4brown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bdb9bf90-0fd0-4992-bd45-ec0a730bf5af",
             "Value": {
                 "id": "c9d62afe-0464-49ec-a1ab-c0dcd48e61f5",
@@ -875,6 +907,14 @@
             "Value": {
                 "id": "39f7108e-34d7-4605-b3db-c55fa11bcaad",
                 "resourcePath": "sprites\\sprite_scaryface\\sprite_scaryface.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c87abb38-b26b-443e-85bd-d2089f4b2be8",
+            "Value": {
+                "id": "22d3c26c-127d-4a2d-a65a-32c2206145f9",
+                "resourcePath": "sprites\\sprite_vinearm1brown\\sprite_vinearm1brown.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -996,6 +1036,14 @@
                 "id": "1dc9dd98-0b99-414e-b6a4-9be59204d60b",
                 "resourcePath": "views\\e67c35c3-753a-4b0d-8d42-a9b6e987eef5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e7a4f527-1150-44c5-be14-23e12230162b",
+            "Value": {
+                "id": "e16a1dfe-4237-42ae-8497-a1070855617a",
+                "resourcePath": "sprites\\sprite_vinearm5brown\\sprite_vinearm5brown.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
