@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "3cc59334-87d2-4921-8973-5ab811e173ce",
+            "Value": {
+                "id": "961360fe-f048-49c6-9b01-4be6989e68ac",
+                "resourcePath": "sprites\\sprite_playerspin\\sprite_playerspin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3cc720b0-7020-4cda-b8c0-8071422479be",
             "Value": {
                 "id": "ef67684b-450a-4dfb-bc35-40dd60e99850",
