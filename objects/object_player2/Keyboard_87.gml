@@ -1,5 +1,18 @@
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
+/// @DnDHash : 431C0146
+/// @DnDArgument : "expr" "spinlock"
+if(spinlock)
+{
+	/// @DnDAction : YoYo Games.Common.Exit_Event
+	/// @DnDVersion : 1
+	/// @DnDHash : 497DB256
+	/// @DnDParent : 431C0146
+	exit;
+}
+
+/// @DnDAction : YoYo Games.Common.If_Expression
+/// @DnDVersion : 1
 /// @DnDHash : 5812ADD6
 /// @DnDArgument : "expr" "place_snapped(64,0)"
 if(place_snapped(64,0))
