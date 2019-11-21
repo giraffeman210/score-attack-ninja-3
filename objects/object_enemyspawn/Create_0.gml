@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 637E76F0
-/// @DnDArgument : "expr" "irandom_range(1,5)"
+/// @DnDArgument : "expr" "irandom_range(1,6)"
 /// @DnDArgument : "var" "enemychoose"
-enemychoose = irandom_range(1,5);
+enemychoose = irandom_range(1,6);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
