@@ -15,9 +15,8 @@ boss = false;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 2EDFD2BE
-/// @DnDArgument : "expr" "5000"
 /// @DnDArgument : "var" "global.currentscore"
-global.currentscore = 5000;
+global.currentscore = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
