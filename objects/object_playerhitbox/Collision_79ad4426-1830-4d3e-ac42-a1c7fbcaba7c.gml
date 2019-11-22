@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 0E41C12C
+/// @DnDHash : 13F51450
 /// @DnDArgument : "xpos" "x"
 /// @DnDArgument : "ypos" "y"
 /// @DnDArgument : "objectid" "object_playerdead"
@@ -10,5 +10,6 @@ instance_create_layer(x, y, "Instances_score", object_playerdead);
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 7157B5B1
-instance_destroy();
+/// @DnDHash : 5725E26A
+/// @DnDApplyTo : b7755eea-d754-4cdf-a96a-c19c4b35b912
+with(object_player2) instance_destroy();

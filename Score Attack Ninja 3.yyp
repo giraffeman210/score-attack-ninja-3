@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "42888f98-1531-4c1b-995e-ad9718e950a2",
+            "Value": {
+                "id": "70a67128-381e-4009-ad85-598d6f81689b",
+                "resourcePath": "sprites\\sprite_playerhitbox\\sprite_playerhitbox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "42c3d656-d7da-4bff-942f-f4fd38505fda",
             "Value": {
                 "id": "c5725c0e-8a7d-4dae-bcd1-603c1e1eb829",
@@ -675,6 +683,14 @@
             "Value": {
                 "id": "9887261a-1d5a-479e-9d38-1f7a665cf35a",
                 "resourcePath": "objects\\object_vinearmhleft\\object_vinearmhleft.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8adc8558-e104-4ed1-9b7a-da0fbc9c479f",
+            "Value": {
+                "id": "c4a8d53c-0993-4476-be28-2e207b5407b1",
+                "resourcePath": "objects\\object_playerhitbox\\object_playerhitbox.yy",
                 "resourceType": "GMObject"
             }
         },

@@ -11,4 +11,5 @@ instance_create_layer(x, y, "Instances_score", object_playerdead);
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 5725E26A
-instance_destroy();
+/// @DnDApplyTo : b7755eea-d754-4cdf-a96a-c19c4b35b912
+with(object_player2) instance_destroy();
