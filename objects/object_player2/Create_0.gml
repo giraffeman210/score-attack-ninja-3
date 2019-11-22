@@ -6,10 +6,10 @@
 /// @DnDArgument : "expr_2" "false"
 /// @DnDArgument : "var" "starcount"
 /// @DnDArgument : "var_1" "spinlock"
-/// @DnDArgument : "var_2" "gridsnappedandlocked"
+/// @DnDArgument : "var_2" "donespinning"
 starcount = 0;
 spinlock = false;
-gridsnappedandlocked = false;
+donespinning = false;
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
