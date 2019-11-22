@@ -21,9 +21,9 @@ if(hp >= 13)
 	/// @DnDVersion : 1
 	/// @DnDHash : 478ABAB5
 	/// @DnDParent : 49421837
-	/// @DnDArgument : "steps" "180"
+	/// @DnDArgument : "steps" "120"
 	/// @DnDArgument : "alarm" "1"
-	alarm_set(1, 180);
+	alarm_set(1, 120);
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
@@ -58,9 +58,9 @@ if(hp >= 10)
 		/// @DnDVersion : 1
 		/// @DnDHash : 7C236C69
 		/// @DnDParent : 030E5483
-		/// @DnDArgument : "steps" "150"
+		/// @DnDArgument : "steps" "105"
 		/// @DnDArgument : "alarm" "1"
-		alarm_set(1, 150);
+		alarm_set(1, 105);
 	}
 }
 
@@ -96,9 +96,9 @@ if(hp >= 7)
 		/// @DnDVersion : 1
 		/// @DnDHash : 0626D3BB
 		/// @DnDParent : 4F403D3D
-		/// @DnDArgument : "steps" "120"
+		/// @DnDArgument : "steps" "90"
 		/// @DnDArgument : "alarm" "1"
-		alarm_set(1, 120);
+		alarm_set(1, 90);
 	}
 }
 
@@ -134,9 +134,9 @@ if(hp >= 4)
 		/// @DnDVersion : 1
 		/// @DnDHash : 02B5DA97
 		/// @DnDParent : 2FFBF926
-		/// @DnDArgument : "steps" "90"
+		/// @DnDArgument : "steps" "75"
 		/// @DnDArgument : "alarm" "1"
-		alarm_set(1, 90);
+		alarm_set(1, 75);
 	}
 }
 
