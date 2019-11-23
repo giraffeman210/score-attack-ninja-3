@@ -1,5 +1,19 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 4B3C7F8C
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "global.stageclear"
+global.stageclear = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 6B6A796C
+/// @DnDArgument : "expr" "3"
+/// @DnDArgument : "var" "lives"
+lives = 3;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 7E161DBF
 /// @DnDArgument : "expr" "false"
 /// @DnDArgument : "var" "stairlock"
