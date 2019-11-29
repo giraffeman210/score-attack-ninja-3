@@ -47,6 +47,15 @@ if(room == room_last)
 	/// @DnDArgument : "var" "global.currentscore"
 	global.currentscore = 0;
 
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 36DFCFF6
+	/// @DnDParent : 56956175
+	/// @DnDArgument : "expr" "1"
+	/// @DnDArgument : "expr_relative" "1"
+	/// @DnDArgument : "var" "global.stage"
+	global.stage += 1;
+
 	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
 	/// @DnDHash : 3B576D91

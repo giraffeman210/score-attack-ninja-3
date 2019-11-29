@@ -157,6 +157,15 @@ if(((x - 32) + (y -32)) mod 64 = 0)
 	/// @DnDArgument : "expr" "fireballtime"
 	if(fireballtime)
 	{
+		/// @DnDAction : YoYo Games.Instances.Set_Sprite
+		/// @DnDVersion : 1
+		/// @DnDHash : 053E31C1
+		/// @DnDParent : 19BC5BFD
+		/// @DnDArgument : "spriteind" "sprite_fireenemyignite"
+		/// @DnDSaveInfo : "spriteind" "8f09854e-fa65-42b2-a0ed-843eec3e83a1"
+		sprite_index = sprite_fireenemyignite;
+		image_index = 0;
+	
 		/// @DnDAction : YoYo Games.Instances.Set_Alarm
 		/// @DnDVersion : 1
 		/// @DnDHash : 294B04B2
