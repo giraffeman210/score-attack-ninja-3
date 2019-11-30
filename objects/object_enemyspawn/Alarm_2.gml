@@ -137,6 +137,75 @@ if(global.stage == 2)
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
+/// @DnDHash : 4FC3233B
+/// @DnDArgument : "var" "global.stage"
+/// @DnDArgument : "value" "3"
+if(global.stage == 3)
+{
+	/// @DnDAction : YoYo Games.Common.If_Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 0ED12449
+	/// @DnDParent : 4FC3233B
+	/// @DnDArgument : "var" "enemychoose"
+	/// @DnDArgument : "op" "3"
+	/// @DnDArgument : "value" "1"
+	if(enemychoose <= 1)
+	{
+		/// @DnDAction : YoYo Games.Instances.Create_Instance
+		/// @DnDVersion : 1
+		/// @DnDHash : 665593FF
+		/// @DnDParent : 0ED12449
+		/// @DnDArgument : "xpos" "x +32"
+		/// @DnDArgument : "ypos" "y + 32"
+		/// @DnDArgument : "objectid" "object_enemy3"
+		/// @DnDArgument : "layer" ""Instances_enemy""
+		/// @DnDSaveInfo : "objectid" "6fc4397e-dca6-4f3c-b684-40b7e4e678e4"
+		instance_create_layer(x +32, y + 32, "Instances_enemy", object_enemy3);
+	}
+
+	/// @DnDAction : YoYo Games.Common.If_Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 4BCCED9C
+	/// @DnDParent : 4FC3233B
+	/// @DnDArgument : "var" "enemychoose"
+	/// @DnDArgument : "value" "2"
+	if(enemychoose == 2)
+	{
+		/// @DnDAction : YoYo Games.Instances.Create_Instance
+		/// @DnDVersion : 1
+		/// @DnDHash : 46DEB968
+		/// @DnDParent : 4BCCED9C
+		/// @DnDArgument : "xpos" "x +32"
+		/// @DnDArgument : "ypos" "y + 32"
+		/// @DnDArgument : "objectid" "object_enemytroll"
+		/// @DnDArgument : "layer" ""Instances_enemy""
+		/// @DnDSaveInfo : "objectid" "493ece8e-42f7-4820-8820-b44a9279b35d"
+		instance_create_layer(x +32, y + 32, "Instances_enemy", object_enemytroll);
+	}
+
+	/// @DnDAction : YoYo Games.Common.If_Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 4896A24A
+	/// @DnDParent : 4FC3233B
+	/// @DnDArgument : "var" "enemychoose"
+	/// @DnDArgument : "value" "3"
+	if(enemychoose == 3)
+	{
+		/// @DnDAction : YoYo Games.Instances.Create_Instance
+		/// @DnDVersion : 1
+		/// @DnDHash : 155052CD
+		/// @DnDParent : 4896A24A
+		/// @DnDArgument : "xpos" "x +32"
+		/// @DnDArgument : "ypos" "y + 32"
+		/// @DnDArgument : "objectid" "object_enemy_jelly"
+		/// @DnDArgument : "layer" ""Instances_enemy""
+		/// @DnDSaveInfo : "objectid" "382cde63-8030-4255-b38f-ec635e6367bb"
+		instance_create_layer(x +32, y + 32, "Instances_enemy", object_enemy_jelly);
+	}
+}
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
 /// @DnDHash : 113C8F9B
 /// @DnDDisabled : 1
 /// @DnDArgument : "var" "enemychoose"

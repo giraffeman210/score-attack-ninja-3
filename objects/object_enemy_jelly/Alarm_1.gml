@@ -19,6 +19,7 @@ speed = 2;
 /// @DnDArgument : "var" "fireball"
 /// @DnDArgument : "objectid" "object_whirlpool"
 /// @DnDArgument : "layer" ""Instances_enemydrop""
+/// @DnDSaveInfo : "objectid" "b4c3644a-d8bf-4890-a0f3-f77157f4c0f4"
 fireball = instance_create_layer(x, y, "Instances_enemydrop", object_whirlpool);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
