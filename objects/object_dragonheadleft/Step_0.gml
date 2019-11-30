@@ -24,9 +24,9 @@ if(move == false)
 		/// @DnDVersion : 1
 		/// @DnDHash : 32813B9E
 		/// @DnDParent : 1927DE45
-		/// @DnDArgument : "expr" "irandom_range(1,3)"
+		/// @DnDArgument : "expr" "irandom_range(1,6)"
 		/// @DnDArgument : "var" "fire"
-		fire = irandom_range(1,3);
+		fire = irandom_range(1,6);
 	}
 }
 

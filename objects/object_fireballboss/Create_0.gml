@@ -1,8 +1,8 @@
-/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 088DC0FA
-/// @DnDArgument : "steps" "300"
-alarm_set(0, 300);
+/// @DnDHash : 6740F683
+/// @DnDArgument : "var" "firecheck"
+firecheck = 0;
 
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1

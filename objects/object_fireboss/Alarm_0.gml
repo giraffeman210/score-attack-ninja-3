@@ -35,8 +35,8 @@ if(hp >= 6)
 		/// @DnDVersion : 1
 		/// @DnDHash : 21A0D1D9
 		/// @DnDParent : 714AA57B
-		/// @DnDArgument : "speed" "3"
-		speed = 3;
+		/// @DnDArgument : "speed" "2.5"
+		speed = 2.5;
 	}
 }
 
@@ -52,8 +52,8 @@ if(hp <= 5)
 	/// @DnDVersion : 1
 	/// @DnDHash : 64482F0D
 	/// @DnDParent : 13F46E2F
-	/// @DnDArgument : "speed" "4"
-	speed = 4;
+	/// @DnDArgument : "speed" "3"
+	speed = 3;
 }
 
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Random
