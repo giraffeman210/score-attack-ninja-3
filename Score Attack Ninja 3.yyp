@@ -999,6 +999,14 @@
             }
         },
         {
+            "Key": "b543e9ac-609e-48b6-9dac-e32dd8c8890a",
+            "Value": {
+                "id": "5f7f1068-5e42-445c-badc-4484bc684c75",
+                "resourcePath": "sprites\\sprite_waterbosshit\\sprite_waterbosshit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b5a57073-80df-4af9-957c-eb469fa80807",
             "Value": {
                 "id": "8b6d88bd-a469-4cad-8df6-b87afee3ee6c",
@@ -1092,6 +1100,14 @@
                 "id": "79954e38-44a8-4cc7-a433-a2d61029357e",
                 "resourcePath": "objects\\object_dragonheadleft\\object_dragonheadleft.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bf4508ca-7ef3-4e5c-8a4b-e4216f7f52e6",
+            "Value": {
+                "id": "8af0aa5d-50d7-4866-9343-8bdcd026adfe",
+                "resourcePath": "sprites\\sprite_waterboss\\sprite_waterboss.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
