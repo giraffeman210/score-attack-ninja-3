@@ -591,6 +591,22 @@
             }
         },
         {
+            "Key": "6a60e40b-09d2-45b1-a815-3db37bdd0c6a",
+            "Value": {
+                "id": "5cbe19ce-6371-4f21-8a60-b3bad73d48a5",
+                "resourcePath": "sprites\\sprite_boneblock\\sprite_boneblock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6aa8740f-b2fa-4435-ba96-8fc54d16581a",
+            "Value": {
+                "id": "c3105a33-ff96-4fe2-8b2b-235ef34f115e",
+                "resourcePath": "sprites\\sprite_boneblock1\\sprite_boneblock1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6b0db70b-7743-48e4-92c6-77d5b9d06ae5",
             "Value": {
                 "id": "1b2b47a8-8531-4787-a3ce-e180f3afc9d6",
@@ -611,6 +627,14 @@
             "Value": {
                 "id": "cef90312-a583-4741-980a-edde444d8317",
                 "resourcePath": "sprites\\sprite_whirlpool\\sprite_whirlpool.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6f3ff074-29d1-4749-b853-6d2f35890012",
+            "Value": {
+                "id": "3237bab0-5dfb-4f4c-bd08-faa3fd044c20",
+                "resourcePath": "sprites\\sprite_enemyghost\\sprite_enemyghost.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -939,6 +963,14 @@
             "Value": {
                 "id": "66debfb8-baf9-402e-ad75-977704423579",
                 "resourcePath": "sprites\\sprite_playerright\\sprite_playerright.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a8da8b1a-b513-45ba-8a5c-410947ebc054",
+            "Value": {
+                "id": "eeef5c89-f490-46ce-a067-615097b6d93c",
+                "resourcePath": "sprites\\sprite_boneblock2\\sprite_boneblock2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1316,6 +1348,14 @@
                 "id": "873bcdf1-4ae4-4605-9dbb-31376226459e",
                 "resourcePath": "objects\\object_vinehole\\object_vinehole.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ecd0080b-bfb2-4797-9866-cf45b78633d5",
+            "Value": {
+                "id": "9216793c-53c1-453c-ae2b-482f03cce91c",
+                "resourcePath": "sprites\\sprite_wallverticalbone\\sprite_wallverticalbone.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
