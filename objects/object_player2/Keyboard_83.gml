@@ -35,8 +35,8 @@ if(place_snapped(64,0))
 		/// @DnDVersion : 1
 		/// @DnDHash : 5F47E0F8
 		/// @DnDParent : 57402163
-		/// @DnDArgument : "speed" "2"
-		speed = 2;
+		/// @DnDArgument : "speed" "1.5"
+		speed = 1.5;
 	}
 
 	/// @DnDAction : YoYo Games.Common.Else
