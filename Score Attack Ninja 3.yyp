@@ -423,6 +423,14 @@
             }
         },
         {
+            "Key": "45bccd78-9c35-4087-8043-e82b43f29bb0",
+            "Value": {
+                "id": "86b7d795-5271-4260-9bac-392f5f05ee59",
+                "resourcePath": "sprites\\sprite_fallingwaterblob\\sprite_fallingwaterblob.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "47f33d28-db20-42a3-90b9-a221673da95c",
             "Value": {
                 "id": "43916b93-e6c9-42e5-a042-e1c1d71ee790",
@@ -1348,6 +1356,14 @@
                 "id": "873bcdf1-4ae4-4605-9dbb-31376226459e",
                 "resourcePath": "objects\\object_vinehole\\object_vinehole.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eb886b34-ea1f-4a2a-9a7e-333812a3950a",
+            "Value": {
+                "id": "dfef48ba-c15c-4ba0-9c1a-a95d1a4badcb",
+                "resourcePath": "sprites\\sprite_waterblob\\sprite_waterblob.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
