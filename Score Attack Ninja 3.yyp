@@ -1311,6 +1311,14 @@
             }
         },
         {
+            "Key": "e6221ed0-e9ae-4ffd-b84d-82e31af3f492",
+            "Value": {
+                "id": "dbfabd3a-23b7-488a-b6a3-aa3febaa184c",
+                "resourcePath": "objects\\object_waterboss\\object_waterboss.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e6536ba9-ff90-49b3-91ed-c4cdfce4fc24",
             "Value": {
                 "id": "a7575a2a-922a-4a48-88d7-1e7a4c50034c",
