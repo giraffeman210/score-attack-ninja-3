@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "1f352aed-7d6b-4e45-a71c-c1dfad183a43",
+            "Value": {
+                "id": "c61ed69e-7604-4d3c-81ed-dc76acefba6c",
+                "resourcePath": "sprites\\sprite_enemytrollundeadhit\\sprite_enemytrollundeadhit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1fa1b03c-fba4-45f5-bd96-25fd626beeb9",
             "Value": {
                 "id": "1ed437ee-df43-4a3d-ba66-eae86648efac",
@@ -332,6 +340,14 @@
                 "id": "770d63ff-a2fa-4db0-8470-812c50154de3",
                 "resourcePath": "objects\\object_enemy_jelly\\object_enemy_jelly.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "39012c8d-1230-4329-b233-838d6caa5d76",
+            "Value": {
+                "id": "837bf2a2-b558-4bec-810f-128390dea997",
+                "resourcePath": "sprites\\sprite_enemyundead\\sprite_enemyundead.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1047,6 +1063,14 @@
             }
         },
         {
+            "Key": "b59ed3e0-0ba1-4c9d-90d3-d09c2f1e9b36",
+            "Value": {
+                "id": "cdba1c2d-cb39-4bba-a76b-76f6297baa0c",
+                "resourcePath": "sprites\\sprite_enemytrollundead\\sprite_enemytrollundead.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b5a57073-80df-4af9-957c-eb469fa80807",
             "Value": {
                 "id": "8b6d88bd-a469-4cad-8df6-b87afee3ee6c",
@@ -1124,6 +1148,14 @@
                 "id": "0676108b-6bc2-42af-bf5a-92cfa4277f6b",
                 "resourcePath": "rooms\\room_stage1\\room_stage1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "be811772-e7e8-4e80-9251-0eaff5c18dfe",
+            "Value": {
+                "id": "8fcd5f1f-c6f6-4276-ba9c-a7f986458dac",
+                "resourcePath": "objects\\object_enemyghost\\object_enemyghost.yy",
+                "resourceType": "GMObject"
             }
         },
         {
