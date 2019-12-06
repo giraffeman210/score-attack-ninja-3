@@ -15,3 +15,10 @@ direction = choose(90,180,0,270);
 /// @DnDHash : 32B64A61
 /// @DnDArgument : "steps" "90"
 alarm_set(0, 90);
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 55865236
+/// @DnDArgument : "steps" "300"
+/// @DnDArgument : "alarm" "1"
+alarm_set(1, 300);
