@@ -169,6 +169,13 @@ if(lives > 0)
 	/// @DnDParent : 6B616B6A
 	with(object_fireballboss) instance_destroy();
 
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 6681FE56
+	/// @DnDApplyTo : be811772-e7e8-4e80-9251-0eaff5c18dfe
+	/// @DnDParent : 6B616B6A
+	with(object_enemyghost) instance_destroy();
+
 	/// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 	/// @DnDVersion : 1
 	/// @DnDHash : 70E19099
