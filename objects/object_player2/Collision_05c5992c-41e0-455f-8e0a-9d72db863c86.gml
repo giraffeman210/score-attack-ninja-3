@@ -97,6 +97,6 @@ if(!(spinlock))
 	/// @DnDVersion : 1
 	/// @DnDHash : 17AD864F
 	/// @DnDParent : 54F620EE
-	/// @DnDArgument : "steps" "60"
-	alarm_set(0, 60);
+	/// @DnDArgument : "steps" "45"
+	alarm_set(0, 45);
 }

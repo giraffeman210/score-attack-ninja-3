@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 7C97029A
-/// @DnDArgument : "expr" "4"
+/// @DnDHash : 67950D71
+/// @DnDArgument : "expr" "3"
 /// @DnDArgument : "var" "global.stage"
-global.stage = 4;
+global.stage = 3;
