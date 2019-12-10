@@ -4,9 +4,9 @@
 /// @DnDArgument : "xpos" "irandom_range(64,1024)"
 /// @DnDArgument : "ypos" "irandom_range(64,640)"
 /// @DnDArgument : "objectid" "object_waterblobspawn"
-/// @DnDArgument : "layer" ""instances_enemy""
+/// @DnDArgument : "layer" ""instances_shadow""
 /// @DnDSaveInfo : "objectid" "a9780d85-d64f-44f4-a4d8-c62c79f0debf"
-instance_create_layer(irandom_range(64,1024), irandom_range(64,640), "instances_enemy", object_waterblobspawn);
+instance_create_layer(irandom_range(64,1024), irandom_range(64,640), "instances_shadow", object_waterblobspawn);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1

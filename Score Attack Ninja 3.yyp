@@ -839,6 +839,14 @@
             }
         },
         {
+            "Key": "8e8643c8-8bdd-437c-9156-ef7f49eecb87",
+            "Value": {
+                "id": "da585bb0-8070-48f6-a273-ae4efef2a3e4",
+                "resourcePath": "objects\\object_fallingwaterblob\\object_fallingwaterblob.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8f09854e-fa65-42b2-a0ed-843eec3e83a1",
             "Value": {
                 "id": "ebf96ae3-5388-43a4-b726-9fe25f5ec86f",

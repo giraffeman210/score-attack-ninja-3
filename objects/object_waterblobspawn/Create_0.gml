@@ -1,9 +1,8 @@
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 327A7FFC
-/// @DnDDisabled : 1
-/// @DnDArgument : "steps" "2"
-
+/// @DnDArgument : "steps" "60"
+alarm_set(0, 60);
 
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
