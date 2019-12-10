@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0777c00f-fbae-4c2e-a8a7-52d99124218e",
+            "Value": {
+                "id": "4ac29404-8b15-4f0d-89e9-fa829d561312",
+                "resourcePath": "sprites\\sprite_undeadboss\\sprite_undeadboss.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "081091bf-fb0c-4aa9-8330-3c48f04f76af",
             "Value": {
                 "id": "63a73557-c424-4cbb-8f49-aabed0f5eaa8",
