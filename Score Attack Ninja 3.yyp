@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "010e41a4-5b21-4d82-a7fb-93ecf2a41383",
+            "Value": {
+                "id": "71cf555c-342e-4985-bcd4-6b38c5648a09",
+                "resourcePath": "sprites\\sprite_jellyshadow\\sprite_jellyshadow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0497c0ff-2d94-4d42-b98f-9c45a29b3544",
             "Value": {
                 "id": "a9a68b91-a84e-4d11-9f38-7693ab600020",
@@ -1007,6 +1015,14 @@
             }
         },
         {
+            "Key": "a9780d85-d64f-44f4-a4d8-c62c79f0debf",
+            "Value": {
+                "id": "0d86d92b-20c9-4c25-8460-76133fb59d84",
+                "resourcePath": "objects\\object_waterblobspawn\\object_waterblobspawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "aa025f61-f9ff-4967-8d87-4456bab3514d",
             "Value": {
                 "id": "37668d11-99cc-4102-b583-dd0e6101c3ac",
@@ -1351,6 +1367,14 @@
             }
         },
         {
+            "Key": "e6221ed0-e9ae-4ffd-b84d-82e31af3f492",
+            "Value": {
+                "id": "dbfabd3a-23b7-488a-b6a3-aa3febaa184c",
+                "resourcePath": "objects\\object_waterboss\\object_waterboss.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e6536ba9-ff90-49b3-91ed-c4cdfce4fc24",
             "Value": {
                 "id": "a7575a2a-922a-4a48-88d7-1e7a4c50034c",
@@ -1436,6 +1460,14 @@
                 "id": "44d7f64a-4b16-4a5b-b18b-a2c06af549ff",
                 "resourcePath": "sprites\\sprite_dragonheadright\\sprite_dragonheadright.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fe47e821-9285-4976-bfca-2c22f6d2c505",
+            "Value": {
+                "id": "3a985dca-8db1-4893-9fa8-a559a1fa906d",
+                "resourcePath": "objects\\object_waterblob\\object_waterblob.yy",
+                "resourceType": "GMObject"
             }
         },
         {
