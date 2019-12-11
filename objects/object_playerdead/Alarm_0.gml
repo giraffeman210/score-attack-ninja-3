@@ -176,6 +176,34 @@ if(lives > 0)
 	/// @DnDParent : 6B616B6A
 	with(object_enemyghost) instance_destroy();
 
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 18FCA38C
+	/// @DnDApplyTo : 8e8643c8-8bdd-437c-9156-ef7f49eecb87
+	/// @DnDParent : 6B616B6A
+	with(object_fallingwaterblob) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 206E3E25
+	/// @DnDApplyTo : fe47e821-9285-4976-bfca-2c22f6d2c505
+	/// @DnDParent : 6B616B6A
+	with(object_waterblob) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 24E6250F
+	/// @DnDApplyTo : e6221ed0-e9ae-4ffd-b84d-82e31af3f492
+	/// @DnDParent : 6B616B6A
+	with(object_waterboss) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 3DA98705
+	/// @DnDApplyTo : a9780d85-d64f-44f4-a4d8-c62c79f0debf
+	/// @DnDParent : 6B616B6A
+	with(object_waterblobspawn) instance_destroy();
+
 	/// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 	/// @DnDVersion : 1
 	/// @DnDHash : 70E19099
@@ -217,6 +245,29 @@ if(lives > 0)
 		/// @DnDArgument : "expr" "15"
 		/// @DnDArgument : "var" "hp"
 		with(object_fireboss) {
+		hp = 15;
+		
+		}
+	}
+
+	/// @DnDAction : YoYo Games.Instances.If_Instance_Exists
+	/// @DnDVersion : 1
+	/// @DnDHash : 5ED2CBB8
+	/// @DnDParent : 6B616B6A
+	/// @DnDArgument : "obj" "object_waterboss"
+	/// @DnDSaveInfo : "obj" "e6221ed0-e9ae-4ffd-b84d-82e31af3f492"
+	var l5ED2CBB8_0 = false;
+	l5ED2CBB8_0 = instance_exists(object_waterboss);
+	if(l5ED2CBB8_0)
+	{
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 51918DD2
+		/// @DnDApplyTo : e6221ed0-e9ae-4ffd-b84d-82e31af3f492
+		/// @DnDParent : 5ED2CBB8
+		/// @DnDArgument : "expr" "15"
+		/// @DnDArgument : "var" "hp"
+		with(object_waterboss) {
 		hp = 15;
 		
 		}
