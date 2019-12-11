@@ -71,8 +71,8 @@ if(movelock)
 					/// @DnDVersion : 1
 					/// @DnDHash : 7E0A4AC5
 					/// @DnDParent : 4E6841B1
-					/// @DnDArgument : "steps" "20"
-					alarm_set(0, 20);
+					/// @DnDArgument : "steps" "15"
+					alarm_set(0, 15);
 				}
 			
 				/// @DnDAction : YoYo Games.Common.Else
@@ -85,8 +85,8 @@ if(movelock)
 					/// @DnDVersion : 1
 					/// @DnDHash : 1C18BD67
 					/// @DnDParent : 08083793
-					/// @DnDArgument : "steps" "10"
-					alarm_set(0, 10);
+					/// @DnDArgument : "steps" "5"
+					alarm_set(0, 5);
 				}
 			}
 		}

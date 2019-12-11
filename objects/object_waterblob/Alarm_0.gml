@@ -17,8 +17,8 @@ direction = choose(90,180,0,270);
 /// @DnDApplyTo : e6221ed0-e9ae-4ffd-b84d-82e31af3f492
 /// @DnDArgument : "var" "hp"
 /// @DnDArgument : "op" "4"
-/// @DnDArgument : "value" "6"
-with(object_waterboss) var l66D36C79_0 = hp >= 6;
+/// @DnDArgument : "value" "8"
+with(object_waterboss) var l66D36C79_0 = hp >= 8;
 if(l66D36C79_0)
 {
 	/// @DnDAction : YoYo Games.Movement.Set_Speed
@@ -35,8 +35,8 @@ if(l66D36C79_0)
 /// @DnDApplyTo : e6221ed0-e9ae-4ffd-b84d-82e31af3f492
 /// @DnDArgument : "var" "hp"
 /// @DnDArgument : "op" "3"
-/// @DnDArgument : "value" "5"
-with(object_waterboss) var l27B58409_0 = hp <= 5;
+/// @DnDArgument : "value" "7"
+with(object_waterboss) var l27B58409_0 = hp <= 7;
 if(l27B58409_0)
 {
 	/// @DnDAction : YoYo Games.Movement.Set_Speed
