@@ -28,6 +28,13 @@ boss = false;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 07233AFE
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "finalboss"
+finalboss = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 2EDFD2BE
 /// @DnDArgument : "expr" "5000"
 /// @DnDArgument : "var" "global.currentscore"

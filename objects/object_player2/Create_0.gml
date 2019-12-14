@@ -20,3 +20,10 @@ donespinning = false;
 /// @DnDArgument : "layer" ""Instances_player""
 /// @DnDSaveInfo : "objectid" "8adc8558-e104-4ed1-9b7a-da0fbc9c479f"
 instance_create_layer(x, y, "Instances_player", object_playerhitbox);
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 1DBAE410
+/// @DnDArgument : "steps" "2"
+/// @DnDArgument : "alarm" "2"
+alarm_set(2, 2);
