@@ -12,6 +12,15 @@ attack = irandom_range(1,3);
 /// @DnDArgument : "value" "1"
 if(attack == 1)
 {
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 6FADFDE2
+	/// @DnDParent : 60762597
+	/// @DnDArgument : "spriteind" "sprite_undeadbossspell2"
+	/// @DnDSaveInfo : "spriteind" "6a75882a-55ba-4c5e-bca4-a8be5208fa7a"
+	sprite_index = sprite_undeadbossspell2;
+	image_index = 0;
+
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 49421837
@@ -440,6 +449,15 @@ if(attack == 1)
 /// @DnDArgument : "value" "2"
 if(attack == 2)
 {
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 07DD6CEC
+	/// @DnDParent : 0A9BC2F2
+	/// @DnDArgument : "spriteind" "sprite_undeadbossspell3"
+	/// @DnDSaveInfo : "spriteind" "895a6129-b282-4347-92dc-e20aaeee8243"
+	sprite_index = sprite_undeadbossspell3;
+	image_index = 0;
+
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 24AD0A04
@@ -464,6 +482,15 @@ if(attack == 2)
 /// @DnDArgument : "value" "3"
 if(attack == 3)
 {
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 16FDBAFE
+	/// @DnDParent : 24D3BFC0
+	/// @DnDArgument : "spriteind" "sprite_undeadbossspell1"
+	/// @DnDSaveInfo : "spriteind" "61f411c7-3a74-4423-865d-bc6d7f53d3fb"
+	sprite_index = sprite_undeadbossspell1;
+	image_index = 0;
+
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 2F605F4E

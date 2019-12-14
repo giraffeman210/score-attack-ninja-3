@@ -8,7 +8,7 @@ image_index = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 3B674139
+/// @DnDHash : 3E4B7611
 /// @DnDArgument : "expr" "true"
 /// @DnDArgument : "var" "kill"
 kill = true;

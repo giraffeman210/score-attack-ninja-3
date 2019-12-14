@@ -623,6 +623,14 @@
             }
         },
         {
+            "Key": "61f411c7-3a74-4423-865d-bc6d7f53d3fb",
+            "Value": {
+                "id": "1565abb0-8a4b-42b1-95fe-446d19387ca3",
+                "resourcePath": "sprites\\sprite_undeadbossspell1\\sprite_undeadbossspell1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "65fbcbb5-3f39-43d7-90c0-196b8be4ffd5",
             "Value": {
                 "id": "08c59753-c3a3-4dc7-8e5f-30192821694f",
@@ -667,6 +675,14 @@
             "Value": {
                 "id": "5cbe19ce-6371-4f21-8a60-b3bad73d48a5",
                 "resourcePath": "sprites\\sprite_boneblock\\sprite_boneblock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6a75882a-55ba-4c5e-bca4-a8be5208fa7a",
+            "Value": {
+                "id": "97f6c0d5-f469-43ea-8fd2-b914647e0fda",
+                "resourcePath": "sprites\\sprite_undeadbossspell2\\sprite_undeadbossspell2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -884,6 +900,14 @@
                 "id": "9887261a-1d5a-479e-9d38-1f7a665cf35a",
                 "resourcePath": "objects\\object_vinearmhleft\\object_vinearmhleft.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "895a6129-b282-4347-92dc-e20aaeee8243",
+            "Value": {
+                "id": "09c9d0a3-bc41-4a18-b495-2b384800f30b",
+                "resourcePath": "sprites\\sprite_undeadbossspell3\\sprite_undeadbossspell3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
