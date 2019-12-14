@@ -37,6 +37,20 @@ if(hp <= 0)
 
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
+	/// @DnDHash : 1622D3E2
+	/// @DnDApplyTo : 6915b16d-9d30-4527-9dfe-a97d7c36dc7e
+	/// @DnDParent : 305212F6
+	with(object_undeadfireball) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 16DC5146
+	/// @DnDApplyTo : be811772-e7e8-4e80-9251-0eaff5c18dfe
+	/// @DnDParent : 305212F6
+	with(object_enemyghost) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
 	/// @DnDHash : 28BBE57C
 	/// @DnDParent : 305212F6
 	instance_destroy();
