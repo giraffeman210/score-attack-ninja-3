@@ -39,13 +39,6 @@ if(hp <= 0)
 
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
-	/// @DnDHash : 78A1869D
-	/// @DnDApplyTo : 2ac0b94f-efcc-4833-90d9-b61062d467f6
-	/// @DnDParent : 305212F6
-	with(object_ninjastaritem) instance_destroy();
-
-	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-	/// @DnDVersion : 1
 	/// @DnDHash : 28BBE57C
 	/// @DnDParent : 305212F6
 	instance_destroy();
