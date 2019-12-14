@@ -42,18 +42,6 @@ if(room == room_last)
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 0F78458D
-	/// @DnDApplyTo : c1e52a03-eebd-409d-808a-6fe265ba92b0
-	/// @DnDParent : 56956175
-	/// @DnDArgument : "expr" "false"
-	/// @DnDArgument : "var" "stairlock"
-	with(object_global) {
-	stairlock = false;
-	
-	}
-
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
 	/// @DnDHash : 44780A0C
 	/// @DnDParent : 56956175
 	/// @DnDArgument : "var" "global.currentscore"

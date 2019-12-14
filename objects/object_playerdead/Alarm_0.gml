@@ -179,8 +179,9 @@ if(lives > 0)
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 18FCA38C
+	/// @DnDApplyTo : 8e8643c8-8bdd-437c-9156-ef7f49eecb87
 	/// @DnDParent : 6B616B6A
-	instance_destroy();
+	with(object_fallingwaterblob) instance_destroy();
 
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
@@ -203,20 +204,6 @@ if(lives > 0)
 	/// @DnDParent : 6B616B6A
 	with(object_waterblobspawn) instance_destroy();
 
-	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-	/// @DnDVersion : 1
-	/// @DnDHash : 008374AA
-	/// @DnDApplyTo : e8f927ae-3360-4897-8a86-5612fff12565
-	/// @DnDParent : 6B616B6A
-	with(object_vinehole) instance_destroy();
-
-	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-	/// @DnDVersion : 1
-	/// @DnDHash : 1F49A38D
-	/// @DnDApplyTo : 00f0ffb7-d2c0-4a74-b191-4be472b964ce
-	/// @DnDParent : 6B616B6A
-	with(object_vinearm) instance_destroy();
-
 	/// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 	/// @DnDVersion : 1
 	/// @DnDHash : 70E19099
@@ -237,18 +224,6 @@ if(lives > 0)
 		with(object_vineboss) {
 		hp = 15;
 		
-		}
-	
-		/// @DnDAction : YoYo Games.Instances.Set_Sprite
-		/// @DnDVersion : 1
-		/// @DnDHash : 4282BD82
-		/// @DnDApplyTo : ff462746-55d0-4cc2-a1ce-f1ad30861fb8
-		/// @DnDParent : 70E19099
-		/// @DnDArgument : "spriteind" "sprite_vineboss"
-		/// @DnDSaveInfo : "spriteind" "c0b44175-095d-49e6-b268-0a508ef3c001"
-		with(object_vineboss) {
-		sprite_index = sprite_vineboss;
-		image_index = 0;
 		}
 	}
 
@@ -345,17 +320,6 @@ if(lives > 0)
 		/// @DnDAction : YoYo Games.Instances.Create_Instance
 		/// @DnDVersion : 1
 		/// @DnDHash : 5D00C93D
-		/// @DnDParent : 28246C8C
-		/// @DnDArgument : "xpos" "random_range(64, 1024)"
-		/// @DnDArgument : "ypos" "random_range(128, 704)"
-		/// @DnDArgument : "objectid" "object_enemyspawn"
-		/// @DnDArgument : "layer" ""Instances_enemy""
-		/// @DnDSaveInfo : "objectid" "16ca7865-835e-473a-8aa2-3a7074401811"
-		instance_create_layer(random_range(64, 1024), random_range(128, 704), "Instances_enemy", object_enemyspawn);
-	
-		/// @DnDAction : YoYo Games.Instances.Create_Instance
-		/// @DnDVersion : 1
-		/// @DnDHash : 540FCD40
 		/// @DnDParent : 28246C8C
 		/// @DnDArgument : "xpos" "random_range(64, 1024)"
 		/// @DnDArgument : "ypos" "random_range(128, 704)"
